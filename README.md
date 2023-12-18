@@ -2,9 +2,9 @@
 
 Entusiasta da aprendizagem contínua, valorizo o "aprender a aprender". Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, enquanto me aventuro como Cadete de Engenharia de Software na Escola 42 São Paulo. Sou Oceanográfa pela UFC e mestre em Ciências pela USP e estou em uma emocionante transição de carreira!
 
-- 🌱 Atualmente, estou aprendendo Pyhton.
+- 🌱 Atualmente, estou aprendendo Pyhton, SQL.
 - 👯 Procurando colaborar com projetos de impacto social.
-- 🌊 Sou amante da natureza, amo surfar e jogar supernintendo nas horas vagas.
+- 🌊 Sou amante da natureza, amo fazer trilhas e surfar. Também adoro um Super Nintendo nas horas vagas.
 - 📫 Contato: luannymedeiros@gmail.com
 
 <div>
@@ -16,8 +16,6 @@ Entusiasta da aprendizagem contínua, valorizo o "aprender a aprender". Atualmen
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />
           
-          
-            
 
 ## Contatos:
 
