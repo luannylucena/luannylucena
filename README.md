@@ -4,7 +4,7 @@ Entusiasta da aprendizagem contínua, valorizo o "aprender a aprender". Atualmen
 
 - 🌱 Atualmente, estou aprendendo Pyhton, SQL.
 - 👯 Procurando colaborar com projetos de impacto social.
-- 🌊 Sou amante da natureza, amo fazer trilhas e surfar. Também adoro um Super Nintendo nas horas vagas.
+- 🌊 Amante da natureza, amo fazer trilhas e surfar. Também adoro jogar Super Nintendo nas horas vagas.
 - 📫 Contato: medeirosluanny@gmail.com
 
 <div style="display: flex; justify-content: center;">
