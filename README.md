@@ -7,9 +7,10 @@ Entusiasta da aprendizagem contínua, valorizo o "aprender a aprender". Atualmen
 - 🌊 Sou amante da natureza, amo fazer trilhas e surfar. Também adoro um Super Nintendo nas horas vagas.
 - 📫 Contato: medeirosluanny@gmail.com
 
-<div>
-<a href="https://github.com/luannylucena">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannylucena&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/luannylucena">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannylucena&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ## Continuamente aprendedo:
