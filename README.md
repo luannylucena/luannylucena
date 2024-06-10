@@ -2,7 +2,7 @@
 
 Entusiasta da aprendizagem contínua, valorizo o "aprender a aprender". Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, enquanto me aventuro como Cadete de Engenharia de Software na Escola 42 São Paulo. Sou Oceanográfa pela UFC e mestre em Ciências pela USP e estou em uma emocionante transição de carreira!
 
-- 🌱 Atualmente, estou aprendendo Pyhton, SQL.
+- 🌱 Atualmente, estou aprendendo AWS, Docker, Kubernetes, Terraform, Cloud, IaC
 - 👯 Procurando colaborar com projetos de impacto social.
 - 🌊 Amante da natureza, amo fazer trilhas e surfar. Também adoro jogar Super Nintendo nas horas vagas.
 - 📫 Contato: medeirosluanny@gmail.com
